@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 My social skills might be a 404, but my inbox is open: kush4up2003@gmail.com
+- 📫 My social skills might be a 404, but my inbox is 200: kush4up2003@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Development is an Art
 
