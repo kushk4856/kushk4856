@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KUSH
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👀 software developer 
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Backend projects
 - 📫 My social skills might be a 404, but my inbox is 200: kush4up2003@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Development is an Art
